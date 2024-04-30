@@ -1,0 +1,2 @@
+# Credit-Card-Fraud-Detection-using-Scikit-Learn-and-Snap-ML
+In this lab,  you will consolidate your machine learning (ML) modelling skills by using two popular classification models to recognize fraudulent credit card transactions. For this lab, you will be using the Snap ML library that can accelerate popular Machine Learning algorithms through system awareness and hardware/software differentiation. 
